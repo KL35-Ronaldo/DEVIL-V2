@@ -1,10 +1,9 @@
-𝐉𝐨𝐡𝐧 𝐃𝐮𝐫𝐚𝐢𝐫𝐚𝐣 
+# 𝐌𝐢𝐧𝐧𝐚𝐥-𝐌𝐮𝐫𝐚𝐥𝐢
 
-𝚅𝚎𝚛𝚢 𝚂𝚎𝚖𝚙𝚒𝚕 𝙱𝚘𝚝 𝙰𝚞𝚝𝚘 𝙵𝚒𝚕𝚝𝚎𝚛 𝚋𝚘𝚝
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+𝐉𝐨𝐡𝐧+𝐃𝐮𝐫𝐚𝐢𝐫𝐚𝐣-𝑭𝑰𝑳𝑻𝑬𝑹-𝑩𝑶𝑻!;created+by+ALBIN+TKO!;A+simple+autofilter+Bot!;Auto+filter+with+double+button!;start+message+with+pic!;and+all+futures!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝚆𝙴𝙻𝙲𝙾𝙼𝙴+𝚃𝙾+⚡+𝐌𝐢𝐧𝐧𝐚𝐥-𝐌𝐮𝐫𝐚𝐥𝐢+⚡;Created+By+😎+𝗥𝗼𝗻𝗮𝗹𝗱𝗼+𝗙𝗮𝗻+😎;A+Simple+Auto-Filter+Bot!;Auto-Filter,+Many+Extra+Features!)
 </p>
-# 𝙲𝙻𝙸𝙲𝙺 𝙱𝙴𝙻𝙾𝚆 𝙸𝙼𝙰𝙶𝙴 𝚃𝙾 𝙳𝙴𝙿𝙻𝙾𝚈 👇
 
+## 𝙲𝙻𝙸𝙲𝙺 𝙱𝙴𝙻𝙾𝚆 𝙸𝙼𝙰𝙶𝙴 𝚃𝙾 𝙳𝙴𝙿𝙻𝙾𝚈 👇
 
 [![Deploy](https://telegra.ph/file/02c798ec0f655dcc3dd95.jpg)](https://heroku.com/deploy?template=https://github.com/Samantha-a/DEVIL-V2)
 
